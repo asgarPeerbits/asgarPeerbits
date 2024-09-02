@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on building dynamic and scalable applications using React Native, React.js, and Node.js. Always exploring new tech stacks and methodologies to enhance user experiences.<br><br>🤝 I’m looking for help with advanced topics in React Native and Node.js. If you’re an expert in these areas or have insights to share, I’d love to connect and learn from you.<br><br>🌱 I’m currently learning TypeScript and diving deeper into GraphQL to build more robust and scalable applications.<br><br>💬 Ask me about modern web development practices, optimizing performance in React applications, or best practices for API development.<br><br>⚡ Fun fact: I can code a complete React Native app in my sleep (just kidding… but I do love coding that much)!
+🔭 I’m on an epic quest to build dynamic and scalable applications using React Native, React.js, Node.js, and the ever-charming Swift. I’m always on the lookout for the latest tech trends and methodologies to make user experiences more awesome.
+
+🤝 I’m on the hunt for guidance on advanced React Native and Node.js topics. If you’re a guru in these areas or just have some killer insights, let’s connect and geek out together!
+
+🌱 Right now, I’m diving into TypeScript and GraphQL to level up my app-building skills and make things even more robust and scalable.
+
+💬 Hit me up if you want to chat about modern web dev practices, boosting performance in React apps, or the secrets to crafting stellar APIs.
+
+⚡ Fun fact: I can code a full React Native app in my sleep (okay, maybe not literally, but I’m passionate enough to try)!
 
 
 # 💻 Tech Stack:
